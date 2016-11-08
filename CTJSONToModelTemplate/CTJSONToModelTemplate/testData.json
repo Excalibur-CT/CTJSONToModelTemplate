@@ -1,0 +1,99 @@
+{
+    "body": {
+        "salarySocialSecurityTips": "工资钱包科企云提供",
+        "salaryFinancingLabel": "工资理财",
+        "salaryFinancing": [
+        {
+            "buttonText": "",
+            "code": "204903",
+            "desc": "攒够一笔钱 完成一个愿望",
+            "name": "<font color='#FFBD30'>工资计划</font> <font color='#B8CDD6'>|</font> <font color='#5D7A8D'>定存工资</font>",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/salary_plan.png"
+        },
+        {
+            "buttonText": "",
+            "code": "204904",
+            "desc": "保险公司提供100%本息保障",
+            "name": "<font color='#FFBD30'>增值计划</font> <font color='#B8CDD6'>|</font> <font color='#5D7A8D'>定期理财</font>",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/salary_financing.png"
+        }
+                            ],
+        "loanActivity": {
+            "conditionDesc": "仅需公积金信息",
+            "detailDesc": "秒级审批 极速放款",
+            "loanAmount": "500~50000",
+            "loanMinRate": "0.035%",
+            "loanProductName": "公积金贷",
+            "loanRateDesc": "最低费率"
+        },
+        "sumDualAmount": "36,567,567.80",
+        "currentFinancing": [
+        {
+            "buttonText": "去存钱",
+            "code": "204907",
+            "desc": "<font color=#B8CDD6>收益</font><font color=#FFBD30>1.15%</font><font color=#B8CDD6>|</font><font color=#FFBD30>100元</font><font color=#B8CDD6>起投</font>",
+            "name": "存钱罐",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/current_financing.png"
+        }
+                             ],
+        "salarySocialSecurity": [
+        {
+            "buttonText": "",
+            "code": "204900",
+            "desc": "",
+            "name": "查工资单",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/salary_bill.png"
+        },
+        {
+            "buttonText": "",
+            "code": "204901",
+            "desc": "",
+            "name": "查社保",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/social_security.png"
+        },
+        {
+            "buttonText": "",
+            "code": "204902",
+            "desc": "",
+            "name": "查公积金",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/housing_fund.png"
+        }
+                                 ],
+        "currentFinancingLabel": "活期理财",
+        "currentFinancingTips": "实时提现",
+        "availableBalance": "",
+        "code": "204801",
+        "sumDualAmountLabel": "工资钱包累计交易额(元)",
+        "activityDomain": [
+        {
+            "buttonText": "",
+            "code": "204905",
+            "desc": "专享标、红包、福利多多",
+            "name": "新手专享",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/new_hand.png"
+        },
+        {
+            "buttonText": "",
+            "code": "204906",
+            "desc": "推荐好友送万元理财金",
+            "name": "推荐好友",
+            "value": "http://zch.open.vj.com/wallet-mobile/static/index/recommend_friend.png"
+        }
+                           ],
+        "message": "未登录用户",
+        "aboutCoopH5Url": "http://zch.open.vj.com/wallet-mobile/api/v3.6/app/index/aboutCoop",
+        "subTitle": "让工资涨起来，赶快充值",
+        "sumUser": "1,196",
+        "salarySocialSecurityLabel": "工资社保查询",
+        "showType": "user",
+        "aboutZhonganH5Url": "http://zch.open.vj.com/wallet-mobile/api/v3.6/app/index/aboutZhongan",
+        "activityDomainLabel": "活动专区",
+        "sumUserLabel": "工资钱包累计服务人数(人)",
+        "isCanQuerySocialSecurity": "false",
+        "availableBalanceLabel": "可用余额(元)"
+    },
+    "footer": {
+        "status": "200"
+    }
+}
+
